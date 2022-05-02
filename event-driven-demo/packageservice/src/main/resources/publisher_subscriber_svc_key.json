@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "[GCP-PROJECT-ID]",
-  "private_key_id": "[GCP-PRIVATE-KEY-ID]",
-  "private_key": "[GCP-PRIVATE-KEY]",
-  "client_email": "[CLIENT-EMAIL]",
-  "client_id": "[CLIENT-ID]",
+  "project_id": "event-driven-microservice-demo",
+  "private_key_id": "781b9ea610809f5b7662595010b5d9642c79943b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu8X9YtERd41Gf\nOqlGJfsVp8bT3ZoNnEohg9T+E4+y125On8WvbkRJnrfbW7lBgrdQaqlITTvyqJZN\neg2m2uf3P2lDTQPLqAlZMU5aot+cg0+w3+iqu/3y81+pVzw7kzvOIDGCysr7Tkzd\nToKfd7194M6Oal5A9y1Hp2s0AkRODPTew/IN/OMUcwhlpUVZxkWzno0bk3pH2E99\nLWlnwBmPrD757kj7IX5oo7KzjWNZuc4SgvbKn7/wCgDU1OcaEC6O7qa8S4jdspq3\nThtJXA0YIgcnCNSJACkC91NtulUkpY5OiJJpnZ7uVRwz3if5kF1WxSOOvLHCIOtR\nb5mvPeaLAgMBAAECggEAETFOm0BsD5tizsvhuDEiBzN2iM/DGgn9XGSBBCSWqglz\nSmrNRLuzc6to1OKjcYVlJT62OughjMF2CVCGEvB50i9QgFALSsfNfg8obM6Lke1z\nDCY/zresR2S/m/wkwT4WUeA8EryB95yZqo4oAYAFBrVB13aAo3snNLQxXD/KHVli\nkCMVmsg6LP1Th26daBGDIWLBtn18/0SDTHH3lP2n+izoFaNC/uF2jrmf9ZSLs3Ng\nKOZNeV31ykym9QbsYcjEeU/UsJL9hGgjFaUo86lEG3uqWU1U+RjpdcLDQRi198Y0\n3kBQqrcKmr79tHoIPjI18elQUCTm1v5f2+tGDo4VUQKBgQD1qAFD9ytIMiJcZQ6t\nN+ru5xVpWo2zm+eSEdSObIuEEIDUFkl/vxz8rsCvuNEOqpjHKZHcn8J33C1zUzfo\nUlOyLIYNXCdFlMZ4FIljW7QpLBSnEAgvnNuYff3AW8a8QdNNP9jnATCqBwYOO95/\nElaUyhqqqNQiCR7j/hNlIDKYlQKBgQC2T0JHkpKN0zRTGM1OcJmFzDjiuwoJQiAt\nBL+Wk92oV/8aIJbZa1NIMNtaWXJt24zj+WfF8UeSvUzvYJMbvcD0Lha+7xzW9RGt\nVibzTgxGabdXkmrxxuQLqCEYmcG2LIGRWwHbdhw+T/CtHLWRhczKUewStzkhTvds\nAemTHIoanwKBgQDjI63P3xnJDnoQ/mv8pAh5T3fPyyfcm9oZiJ0F971kpjHIaLcb\nBGXUCe0mTXgX3IuZE4nH+nxAgXgQ+zBlgsHarCpi7gNt5etBGpQSJ7fEnfqWok8/\nXwT40f4vv2xZo2+yLMfsiIArpoTl4luPGTCvMNRJWgOTWOWUH9hlF8lQpQKBgHWI\ndZeE9DzA/AvSgpHeX+t1dPsfUGIVon7Df+zI2W8thAZJGleDLMbu0IvX/MC8eYGE\nChX/7n+40P/GiDCrTdleWUWxDCu9BS91ylizaZB/mTa463+CFQU62FNu1QbofIPE\nY1ckNyMpEGXai2gNFbEdzY9nVkqWCUc1mGtCS/rLAoGAFjAa2i3FKP5/PGkrdNta\n7y6/N4LELNBE4g3LV+bPbzTvXZiDGA3FnnUsz+u/+jJL5nY4xtKL6UI37Ocx2LJT\nwIZ6a7xV2eOkidUj+QnEUvGNU++qHlgvXi/x04XRgSUrwGy9vqgVzS1B9Y0tDbnO\nvTN1qc2aoxsp1RsdEVg3b60=\n-----END PRIVATE KEY-----\n",
+  "client_email": "svc-pubsub-event-driven-demo@event-driven-microservice-demo.iam.gserviceaccount.com",
+  "client_id": "115373250495230239496",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "[AUTH-PROVIDER-X509-CERT-URL]",
-  "client_x509_cert_url": "[CLIENT-X509-CERT-URL]"
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-pubsub-event-driven-demo%40event-driven-microservice-demo.iam.gserviceaccount.com"
 }
